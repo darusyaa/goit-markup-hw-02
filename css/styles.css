@@ -119,6 +119,7 @@ body {
 .option .button {
     background-color: var(--accent-color);
     color: var(--white-color);
+    cursor: pointer;
     
     
 
